@@ -1,3 +1,2 @@
-
-<img src=".\capture\img.png">
+<img src="captures/img.png">
 
